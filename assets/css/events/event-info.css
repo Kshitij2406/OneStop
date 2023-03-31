@@ -265,6 +265,21 @@
     color: #fff;
     background: #5969f3;
   }
+
+  .navbar .organize,
+.navbar .organize:focus {
+  background: #4154f1;
+  padding: 8px 20px;
+  margin-left: 30px;
+  border-radius: 4px;
+  color: #fff;
+}
+
+.navbar .organize:hover,
+.navbar .organize:focus:hover {
+  color: #fff;
+  background: #5969f3;
+}
   
   .navbar .dropdown ul {
     display: block;
